@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:weightSum="1"
-        tools:context="id.sch.smktelkom_mlg.project.xirpl402112029.deuxappkk.ButtonActivity">
+        tools:context=".ButtonActivity">
 
         <Button
             android:id="@+id/button2"
@@ -30,9 +30,8 @@
             android:layout_height="204dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/food"
+            android:background="@drawable/foodd"
             android:padding="8dp"
-            android:text="ENJOY YOUR FOOD"
             android:textColor="#FFFFFF" />
 
         <Button
@@ -41,9 +40,8 @@
             android:layout_height="204dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/hotel"
+            android:background="@drawable/hotell"
             android:padding="8dp"
-            android:text="DONT FORGET TO BRING OLEH OLEH"
             android:textColor="#FFFFFF" />
 
 
